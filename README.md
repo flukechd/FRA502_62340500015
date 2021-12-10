@@ -9,8 +9,8 @@ Gazebo: version 11.5.1
 
 
 # Installation
-$ git clone /
-$ cd ../
+$ git clone 
+$ cd ..
 $ catkin_make
 
 
