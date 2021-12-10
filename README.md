@@ -9,7 +9,7 @@ Gazebo: version 11.5.1
 
 
 # Installation
-$ git clone 
+$ git clone https://github.com/flukechd/FRA502_62340500015.git
 $ cd ..
 $ catkin_make
 
