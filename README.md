@@ -9,7 +9,7 @@ Gazebo: version 11.5.1
 
 
 # Installation
-Build package from source: navigate to the source folder of your catkin workspace and build this package using: 
+Build package from source: navigate to the source folder of your catkin workspace and build this package using 
 $ git clone 
 $ cd ..
 $ catkin_make
